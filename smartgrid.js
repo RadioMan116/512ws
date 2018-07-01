@@ -9,16 +9,16 @@ const settings = {
     },
     breakPoints: {
         ld: {
-            width: "1024px",
-            fields: "15px"
+            width: "1700px",
+            fields:"30px"
         },
         m: {
-            width: "993px",
-            fields: "15px"
+            width: "1440px",
+            fields: "25px"
         },
         s: {
-            width: "933px",
-            fields: "15px"
+            width: "1024px",
+            fields: "20px"
         },
 
         sm: {
